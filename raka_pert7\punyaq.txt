@@ -1,0 +1,1 @@
+mysql -u dpc13 -h dbms.lepkom.f4.com -p
